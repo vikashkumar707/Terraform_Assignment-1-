@@ -1,0 +1,6 @@
+*.terraform.lock.hcl
+*.txt
+*terraform.tfstate
+*.terraform/providers/registry.terraform.io/hashicorp
+MyFile/
+/.terraform
