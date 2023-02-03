@@ -2,5 +2,5 @@
 *.txt
 *terraform.tfstate
 *.terraform/providers/registry.terraform.io/hashicorp
-MyFile/
+
 /.terraform
