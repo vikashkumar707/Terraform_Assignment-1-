@@ -14,7 +14,7 @@ resource "local_file" "fi2" {
 locals {
   content_for_files = "Hello!This is local file content"
 }
-//use of local resource
+//use of random resource
 resource "random_id" "random-file-name" {
   byte_length = 8 //doesn't create string but a byte file
 }
